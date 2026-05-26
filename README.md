@@ -245,10 +245,10 @@ Dashboard 是知识库运行状态页。
 把 Dashboard 截图放到下面路径：
 
 ```text
-docs/images/figure-2-dashboard.png
+docs/images/figure-2-dashboard.jpg
 ```
 
-> 附图 2 待补：请将 Dashboard 截图保存为 `docs/images/figure-2-dashboard.png`。
+![附图 2：Dashboard 页面](docs/images/figure-2-dashboard.jpg)
 
 ### 3.2 DeepSeek hot 页面
 
@@ -285,10 +285,10 @@ B站逻辑是：
 把热点页截图放到下面路径：
 
 ```text
-docs/images/figure-3-deepseek-hot.png
+docs/images/figure-3-deepseek-hot.jpg
 ```
 
-> 附图 3 待补：请将 DeepSeek hot 截图保存为 `docs/images/figure-3-deepseek-hot.png`。
+![附图 3：DeepSeek hot 页面](docs/images/figure-3-deepseek-hot.jpg)
 
 ### 3.3 内容整理页面
 
@@ -331,10 +331,10 @@ AI 自动分类，或按用户设置标签分类
 把内容整理页截图放到下面路径：
 
 ```text
-docs/images/figure-4-content-organizer.png
+docs/images/figure-4-content-organizer.jpg
 ```
 
-> 附图 4 待补：请将内容整理页面截图保存为 `docs/images/figure-4-content-organizer.png`。
+![附图 4：内容整理页面](docs/images/figure-4-content-organizer.jpg)
 
 ## 4. Dashboard 配置说明
 
