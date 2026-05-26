@@ -484,25 +484,6 @@ LLM-Wiki-Knowledge-Base/
 - `90_Manifests/weave-relations.csv`：跨来源关系登记。
 - `90_Manifests/content-inbox.json`：内容整理收件箱。
 
-## 7. 开源前注意
-
-请不要提交这些本地敏感文件：
-
-```text
-.obsidian/plugins/llm-wiki-dashboard/data.json
-.obsidian/workspace.json
-.wx-cli/
-90_Manifests/content-inbox.json
-90_Manifests/*-daily-top.json
-90_Manifests/dashboard-plan.json
-.env
-```
-
-本项目已经提供 `.gitignore`，但开源前仍建议你检查一遍：
-
-```powershell
-git status
-```
 
 确认没有 API Key、微信数据、个人链接、个人任务计划被提交。
 
