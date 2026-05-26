@@ -1,0 +1,4 @@
+interface:
+  display_name: "LLM Wiki 入库编译"
+  short_description: "把 raw/source 资料编译进已有 wiki 页面。"
+  default_prompt: "读取 AGENTS.md，把新 raw/source 资料登记为来源卡，并编译进已有 wiki 页面，最后更新日志和开放问题。"

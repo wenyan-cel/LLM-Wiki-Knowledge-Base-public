@@ -1,0 +1,5 @@
+id,title,author,url_or_path,date,type,status,notes
+S001,Karpathy - LLM Wiki,Andrej Karpathy,https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f,2026-05-22,gist,seed,Initial source for the knowledge base structure
+S002,文生图视频制作 - Coze 电商产品宣传物料,用户资料,10_Raw/文生图视频制作-Coze-电商产品宣传物料.md,2026-05-24,note,ingested,Coze 平台的电商文生图视频工作流
+S003,文生图视频制作 - Dify 电商产品宣传物料,用户资料,10_Raw/文生图视频制作-Dify-电商产品宣传物料.md,2026-05-24,note,ingested,Dify 平台的电商文生图视频工作流
+S004,文生图视频制作 - 国内 API 与品类分镜样例,用户资料,10_Raw/文生图视频制作-国内API与品类分镜样例.md,2026-05-24,note,ingested,国内文生图图生视频 API 与美妆 3C 服饰分镜样例

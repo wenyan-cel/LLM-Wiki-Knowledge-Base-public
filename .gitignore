@@ -1,0 +1,10 @@
+.obsidian/plugins/llm-wiki-dashboard/data.json
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.wx-cli/
+90_Manifests/content-inbox.json
+90_Manifests/*-daily-top.json
+90_Manifests/dashboard-plan.json
+*.log
+.env
+.env.*

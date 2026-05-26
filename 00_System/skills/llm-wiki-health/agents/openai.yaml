@@ -1,0 +1,4 @@
+interface:
+  display_name: "LLM Wiki 健康维护"
+  short_description: "定期检查清理去重修复链接并维护 wiki 健康状态。"
+  default_prompt: "检查这个 LLM Wiki 的健康状态：重复页面、孤立页面、断链、过期来源、未处理问题、索引缺口，并执行低风险修复。"

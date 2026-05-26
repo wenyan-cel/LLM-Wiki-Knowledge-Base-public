@@ -1,0 +1,10 @@
+{
+  "id": "llm-wiki-dashboard",
+  "name": "LLM Wiki Dashboard",
+  "version": "0.2.0",
+  "minAppVersion": "1.5.0",
+  "description": "A dashboard for Raw intake, Wiki conversion, planning, and LLM Wiki health.",
+  "author": "Codex",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}

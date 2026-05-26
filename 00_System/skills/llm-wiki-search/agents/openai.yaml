@@ -1,0 +1,4 @@
+interface:
+  display_name: "LLM Wiki 搜索问答"
+  short_description: "基于 index 和 wiki 图谱检索回答知识库问题。"
+  default_prompt: "基于 20_Wiki/index.md 和 wiki 双链检索回答问题；必要时全文搜索 Sources 和 Raw，并指出来源与不确定点。"

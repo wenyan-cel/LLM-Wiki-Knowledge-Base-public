@@ -1,0 +1,5 @@
+interface:
+  display_name: "LLM Wiki 关系编织"
+  short_description: "发现跨来源关联并增强 wiki 知识图谱。"
+  default_prompt: "读取 Sources、Concepts 和 Syntheses，发现跨 Raw/Source 的共同概念、对比、支持、应用案例关系，并低风险写回 wiki 图谱。"
+
