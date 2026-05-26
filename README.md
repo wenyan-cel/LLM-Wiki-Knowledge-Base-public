@@ -98,10 +98,10 @@ Wiki 的原则是：**新资料进来后，优先更新已有页面，而不是�
 把你的图谱截图放到下面路径后，GitHub 会自动显示：
 
 ```text
-docs/images/figure-1-knowledge-graph.png
+docs/images/figure-1-knowledge-graph.jpg
 ```
 
-![附图 1：Raw/Wiki 知识图谱](docs/images/figure-1-knowledge-graph.png)
+![附图 1：Raw/Wiki 知识图谱](docs/images/figure-1-knowledge-graph.jpg)
 
 ## 2. 四个 Codex Skills
 
@@ -248,7 +248,7 @@ Dashboard 是知识库运行状态页。
 docs/images/figure-2-dashboard.png
 ```
 
-![附图 2：Dashboard 页面](docs/images/figure-2-dashboard.png)
+> 附图 2 待补：请将 Dashboard 截图保存为 `docs/images/figure-2-dashboard.png`。
 
 ### 3.2 DeepSeek hot 页面
 
@@ -288,7 +288,7 @@ B站逻辑是：
 docs/images/figure-3-deepseek-hot.png
 ```
 
-![附图 3：DeepSeek hot 页面](docs/images/figure-3-deepseek-hot.png)
+> 附图 3 待补：请将 DeepSeek hot 截图保存为 `docs/images/figure-3-deepseek-hot.png`。
 
 ### 3.3 内容整理页面
 
@@ -334,7 +334,7 @@ AI 自动分类，或按用户设置标签分类
 docs/images/figure-4-content-organizer.png
 ```
 
-![附图 4：内容整理页面](docs/images/figure-4-content-organizer.png)
+> 附图 4 待补：请将内容整理页面截图保存为 `docs/images/figure-4-content-organizer.png`。
 
 ## 4. Dashboard 配置说明
 
@@ -486,4 +486,3 @@ LLM-Wiki-Knowledge-Base/
 
 
 确认没有 API Key、微信数据、个人链接、个人任务计划被提交。
-
